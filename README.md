@@ -1,2 +1,2 @@
 # catloris-ml
-datasetnya nyusul kak, nyari tempat yang cocok
+link akses datasetnya nyusul kak, nyari tempat nampung yang cocok

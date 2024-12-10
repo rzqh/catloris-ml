@@ -47,7 +47,31 @@ We are developing a food classification & recommendation model that suggests sui
 # Machine Learning Model
 
 ![Machine Learning Model](https://www.linkpicture.com/)
-The first model is for classifying food pictures into 14 categories in which we will be able to calculate the nutrition of this food. For the model, we built a sequential model using Tensorflow and Keras API. We use transfer learning MobileNetV2. Our input are trained through some parts of the MobileNetV2 layers. Then the output is flattened. After that, it is then passed into a Deep Neural Network with Dropout Layers.
+## Food Classification Model  
+
+### Overview  
+The model is designed for classifying food pictures into 15 categories to calculate their nutritional values. It uses a Sequential Model approach with **TensorFlow** and **Keras API**, leveraging **MobileNetV2** for transfer learning.  
+
+### Model Architecture  
+- **Base Model: MobileNetV2**  
+  - Transfer learning with pre-trained weights from `ImageNet`.  
+  - Fine-tuning enabled for some layers.  
+  - The first **100 layers are frozen** to preserve pre-trained features.  
+
+- **Custom Layers**  
+  - **Global Average Pooling**: Extracts key features from the MobileNetV2 output.  
+  - **Flattening**: Prepares the data for dense layers.  
+  - **Dense Layers with L2 Regularization**:  
+    - A 1024-unit dense layer with ReLU activation and a Dropout rate of 0.3.  
+    - A 512-unit dense layer with ReLU activation and a Dropout rate of 0.3.  
+  - **Output Layer**: A dense layer with softmax activation for classification into 15 categories.  
+
+### Model Compilation  
+- **Optimizer**: Adam  
+  - Learning rate: `0.0001`.  
+- **Loss Function**: Categorical Cross-Entropy.  
+- **Evaluation Metric**: Accuracy.  
+
 
 ![Machine Learning Model](https://www.linkpicture.com/)
 

@@ -1,4 +1,4 @@
-disini banner tapi belum jadi
+![banner_ML](https://ibb.co.com/C2YBVr8)
 
 
 # Catloris - Machine Learning

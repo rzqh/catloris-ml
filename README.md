@@ -2,7 +2,7 @@ disini banner tapi belum jadi
 
 
 # Catloris - Machine Learning
-Hello, this is machine learning part of Catloris application made by Capstone Team ?????? ✨
+Hello, this is machine learning part of Catloris application made by Capstone Team C242-PS149 ✨
 
 # Table of Contents
 - [Introduction](https://github.com/rzqh/catloris-ml/tree/main#machine-learning-team)

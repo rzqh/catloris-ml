@@ -1,0 +1,107 @@
+{
+  "0": {
+    "nama": "ayam goreng krispi",
+    "protein": 20,
+    "lemak": 15,
+    "karbohidrat": 10,
+    "kalori": 255
+  },
+  "1": {
+    "nama": "bakso",
+    "protein": 12,
+    "lemak": 8,
+    "karbohidrat": 15,
+    "kalori": 180
+  },
+  "2": {
+    "nama": "burger",
+    "protein": 15,
+    "lemak": 20,
+    "karbohidrat": 30,
+    "kalori": 360
+  },
+  "3": {
+    "nama": "kentang goreng",
+    "protein": 2,
+    "lemak": 15,
+    "karbohidrat": 35,
+    "kalori": 280
+  },
+  "4": {
+    "nama": "nasi goreng",
+    "protein": 8,
+    "lemak": 10,
+    "karbohidrat": 45,
+    "kalori": 300
+  },
+  "5": {
+    "nama": "nasi padang",
+    "protein": 20,
+    "lemak": 15,
+    "karbohidrat": 60,
+    "kalori": 450
+  },
+  "6": {
+    "nama": "nasi putih",
+    "protein": 3,
+    "lemak": 0,
+    "karbohidrat": 40,
+    "kalori": 172
+  },
+  "7": {
+    "nama": "nugget",
+    "protein": 10,
+    "lemak": 12,
+    "karbohidrat": 15,
+    "kalori": 208
+  },
+  "8": {
+    "nama": "pizza",
+    "protein": 12,
+    "lemak": 14,
+    "karbohidrat": 35,
+    "kalori": 310
+  },
+  "9": {
+    "nama": "rawon daging sapi",
+    "protein": 18,
+    "lemak": 12,
+    "karbohidrat": 20,
+    "kalori": 260
+  },
+  "10": {
+    "nama": "rendang",
+    "protein": 25,
+    "lemak": 20,
+    "karbohidrat": 5,
+    "kalori": 330
+  },
+  "11": {
+    "nama": "sate",
+    "protein": 20,
+    "lemak": 15,
+    "karbohidrat": 10,
+    "kalori": 250
+  },
+  "12": {
+    "nama": "seblak",
+    "protein": 8,
+    "lemak": 10,
+    "karbohidrat": 30,
+    "kalori": 240
+  },
+  "13": {
+    "nama": "sop",
+    "protein": 10,
+    "lemak": 5,
+    "karbohidrat": 15,
+    "kalori": 140
+  },
+  "14": {
+    "nama": "tempe goreng",
+    "protein": 15,
+    "lemak": 10,
+    "karbohidrat": 8,
+    "kalori": 182
+  }
+}

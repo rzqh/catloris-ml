@@ -1,0 +1,53 @@
+﻿Nama Makanan,Kalori (kcal),Protein (g),Karbohidrat (g),Lemak (g),Kategori
+nasi jagung,230,5,50,3,Karbohidrat
+nasi putih,130,2.7,28.2,0.3,Karbohidrat
+nasi goreng,267,7,35,12,Karbohidrat
+ayam goreng,260,28.4,0.1,15.5,Protein
+tahu goreng,80,7.8,2.4,5.2,Protein
+tempe goreng,158,10,8,10,Protein
+sayur lodeh,100,3.5,10,5,Sayur
+gado-gado,150,5,15,8,Sayur
+pecel,120,4,12,6,Sayur
+sate ayam,200,15,5,12,Protein
+soto ayam,120,8,10,4,Sup
+rawon,130,10,8,5,Sup
+Sop Buntut,250,15,10,15,Sup
+bakso,180,10,20,5,Sup
+Mie Ayam,300,12,45,8,Karbohidrat
+Mie Goreng,400,10,50,18,Karbohidrat
+Bubur Ayam,150,7,25,3,Karbohidrat
+Ketoprak,200,8,20,10,Sayur
+Lontong Sayur,180,5,30,5,Karbohidrat
+Rendang,350,20,5,30,Protein
+Gulai Kambing,300,18,5,25,Sup
+Ikan Bakar,200,25,0,10,Protein
+Udang Goreng,150,15,5,8,Protein
+Cumi Bakar,120,20,1,3,Protein
+Ikan Asin,100,8,0,4,Protein
+Telur Rebus,68,6,0.5,5,Protein
+Telur Dadar,150,10,1,12,Protein
+Kentang Goreng,312,3.4,41.4,15,Karbohidrat
+Roti Tawar,80,2.5,14,1,Karbohidrat
+Roti Manis,150,4,30,3,Karbohidrat
+Pizza,300,12,35,12,Karbohidrat
+Burger,250,15,30,10,Karbohidrat
+Es Teh Manis,90,0,23,0,Minuman
+Kopi Susu,150,2,20,5,Minuman
+Jus Alpukat,200,3,20,10,Minuman
+Jus Jeruk,120,1,25,0,Minuman
+Salad Buah,120,2,20,4,Buah
+Pisang Goreng,140,1,30,5,Buah
+Keripik Singkong,150,1,20,8,Snack
+Kacang Goreng,200,8,5,15,Snack
+Martabak Manis,400,6,50,20,Snack
+Klepon,120,2,25,2,Snack
+Donat,250,4,35,10,Snack
+Tape Ketan,150,2,30,1,Snack
+Kolak Pisang,200,2,35,8,Snack
+Bubur Ketan Hitam,180,3,35,4,Snack
+Es Campur,250,5,40,10,Minuman
+Es Doger,220,3,35,8,Minuman
+Cimol,180,2,20,8,Snack
+seblak,200,7,25,8,Snack
+kentang goreng,280,2,35,15,Snack
+nugget,208,10,15,12,Protein

@@ -1,4 +1,4 @@
-![banner_ML](https://ibb.co.com/C2YBVr8)
+![banner_ML](https://i.ibb.co.com/74Zvr9C/catloris-logo.png)
 
 
 # Catloris - Machine Learning
